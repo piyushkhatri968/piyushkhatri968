@@ -66,7 +66,7 @@ A digital wallet where users transfer money over a **double-entry ledger** that 
 `ASP.NET Core · Angular · SQL Server · EF Core`
 Multi-module inventory & order system with reporting dashboards, server-side pagination/filtering, CSV export, and migration-managed schema evolution.
 
-**🤖 JobMatcher — AI Recruitment Platform**
+**🤖 [JobMatcher — AI Recruitment Platform](https://github.com/piyushkhatri968/FYP-Project)**
 `Node.js · MongoDB · React · Python (Flask, spaCy)`
 Multi-role recruitment platform with an NLP service that parses resumes and ranks candidates per job using TF-IDF + cosine similarity.
 
